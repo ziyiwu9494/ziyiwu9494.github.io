@@ -1,0 +1,117 @@
+.parallax {
+    /* The image used */
+    background-image: url("https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2019%2F01%2Fopentable-scenic-restaurants-marine-room-FT-BLOG0818.jpg");
+    /* Create the parallax scrolling effect */
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    color: antiquewhite;
+    font-size: 30px;
+    padding: 130px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-size: cover;
+    height: 400px;
+}
+img{
+  width: 530px;
+  height: 400px;
+  border: 10px solid #555;
+  margin: 10px 100px 10px 100px
+}
+
+h2{
+  color: darkblue;
+  font-size: 30px;
+  margin-bottom: 2px;
+}
+
+nav {
+  background-color: antiquewhite;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+nav a{
+  color: black;
+  text-decoration:none;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: blue;
+  font-family: sans-serif;
+  font-size: 25px;
+}
+
+nav a:hover {
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+}
+
+.title {
+  color: darkblue;
+  
+}
+
+.subtitle {
+  color: blueviolet;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  border-bottom: 3px double;
+  font-size: 35px
+}
+
+.banner-text{
+  color:antiquewhite;
+  font-size: 70px;
+}
+
+button{
+  padding: 10px 15px 10px 15px;
+  font-size: 20px;
+  
+}
+
+.move_down { 
+  margin-top: 100px;
+}
+
+.move_right{
+  margin-left: 400px;
+}
+
+.container{
+  height: 900px;
+  width: 1300px;
+}
+
+.description_left{
+  float:left;
+  margin: 125px 0px 125px 100px
+}
+
+.description_right{
+  float:right;
+  margin: 125px 100px 125px 0px
+}
+
+.left{
+  float:left;
+}
+.right{
+  float:right;
+}
+
+p{
+  font-size: 20px;
+  margin-top: 0px;
+}
+
+.category{
+  height: 444px;
+  width: 1300px;
+}
